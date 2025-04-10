@@ -1,8 +1,5 @@
 {
-"engines": {
-  "node": "18.x"
-},
-  "name": "Seconds-Projects",
+  "name": "backend",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
