@@ -19,12 +19,6 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-app.use(express.static('public'));
-
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/public/index.html');
-});
-
 // app.get('/addHoldings', async(req, res) => {
 //        let tempHoldings=[
 //           {
