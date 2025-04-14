@@ -19,7 +19,7 @@ function CreateTicket() {
                     <br />
                 </div>
                 <div className='col-4 p-5 mt-3 mb-3'>
-                    <h4 className=''><i class="fa-regular fa-id-card-clip"></i> Your Zerodha Account</h4>
+                    <h4 className=''><i class="fa-regular fa-id-card-clip"></i> Your TradeNest Account</h4>
                     <a href='/' style={{textDecoration: "none", lineHeight: "2.5"}}>Your Profile </a>
                     <br />
                     <a href='/' style={{textDecoration: "none", lineHeight: "2.5"}}>Account modification </a>
