@@ -19,7 +19,7 @@ function ProductsPage() {
             <LeftSection
                 imageURl="media/images/varsity.png" productName="Varsity mobile" productDesription="An easy to grasp, collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go." tryDemo="" learnMore="" googlePlay="" appStore="" />
 
-             <p className='text-center mt-5 mb-5'>Want to know more about our technology stack? Check out the <a href='/'>Zerodha.tech</a> blog.</p>
+             <p className='text-center mt-5 mb-5'>Want to know more about our technology stack? Check out the <a href='/'>Tradenest.tech</a> blog.</p>
             <Universe />
         </>
     );

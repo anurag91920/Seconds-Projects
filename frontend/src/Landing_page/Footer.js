@@ -7,9 +7,9 @@ function Footer() {
         <div className='container border-top mt-5'>
             <div className='row mt-5'>
                 <div className='col'>
-                    <img src='media/images/logo.svg' style={{ width: "40%" }} alt='Logo' />
+                    <img src='media/images/Logo.webp' style={{ width: "40%" }} alt='Logo' />
                     <p>
-                        &copy; © 2010 - 2025, Zerodha Broking Ltd. All rights reserved.
+                        &copy; © 2010 - 2025, TradeNest Broking Ltd. All rights reserved.
                     </p>
                     <div className='mt-2 fs-2'>
                     <i class="fa-brands fa-facebook p-2"></i>
@@ -35,11 +35,11 @@ function Footer() {
                     <br />
                     <Link href=''style={{textDecoration: "none"}}>Careers</Link>
                     <br />
-                    <Link href=''style={{textDecoration: "none"}}>Zerodha.tech</Link>
+                    <Link href=''style={{textDecoration: "none"}}>TradeNest.tech</Link>
                     <br />
                     <Link href=''style={{textDecoration: "none"}}>Press & media</Link>
                     <br />
-                    <Link href=''style={{textDecoration: "none"}}>Zerodha cares (CSR)</Link>
+                    <Link href=''style={{textDecoration: "none"}}>TradeNest cares (CSR)</Link>
                     <br />
                 </div>
                 <div className='col'>
